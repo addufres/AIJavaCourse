@@ -4,9 +4,8 @@ import junit.framework.*;
 
 public class HelloWorld {
 
-	public static void main(String[] args) {
+	public static void printHelloWorld() {
 		System.out.println("Hello World.");
-
 	}
 
 }
